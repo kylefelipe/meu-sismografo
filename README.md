@@ -49,3 +49,5 @@ Esse é o sonho que eu tenho (me senti o Martin Luther King Jr. agora).
 >> First Things First.  
 
 Primeiro, iniciar pelo teste de cada componente.
+
+12/02/2020: Foi testado o módulo RTC e o problema era entre a cadeira e o teclado.
