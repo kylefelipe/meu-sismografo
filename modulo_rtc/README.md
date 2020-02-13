@@ -12,4 +12,4 @@ O teste 01 foi retirado do canal [Usinainfo Eletrônica e Robótica](https://www
 
 TO DO:
 
-Ver issue #1
+Ver issue [#1](https://github.com/kylefelipe/meu-sismografo/issues/1)
