@@ -11,3 +11,5 @@ A intenção com esse módulo é:
 O teste 01 foi retirado do canal [Usinainfo Eletrônica e Robótica](https://www.youtube.com/channel/UC-ssq8L2qItrQeKYqa-dKRQ)
 
 TO DO:
+
+Ver issue #1
